@@ -24,6 +24,7 @@ This guide covers two things: **how the code is organised** (onboarding) and **h
 - [Build and Deployment](#build-and-deployment)
 - [Troubleshooting](#troubleshooting)
 - [Additional Resources](#additional-resources)
+- [Team Zedu-Condor](#team-zedu-condor)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
@@ -843,6 +844,22 @@ pnpm start   # next start
 | [shadcn/ui docs](https://ui.shadcn.com/docs/components)      | UI components                                  |
 | [Next.js App Router](https://nextjs.org/docs/app)            | Routing and layouts                            |
 | [Conventional Commits](https://www.conventionalcommits.org/) | Commit format                                  |
+
+---
+
+## Team Zedu-Condor
+
+| Full name                    | Email                      | Primary role   |
+| ---------------------------- | -------------------------- | -------------- |
+| Aniyikaye Alabi              | alabianiyikaye6@gmail.com  | Technical lead |
+| Benjamin Umoh                | umohbenjamin001@gmail.com  | Team lead      |
+| Emmanuel Inyang              | nuelinyang66@gmail.com     | Developer      |
+| George Adaba                 | adaba.george001@gmail.com  | Developer      |
+| Omisakin Amos Oluwatimilehin | olutimilehinamos@gmail.com | Software QA    |
+| Obiagwu Chukwuka Freeborn    | obiagwuchukwuka@gmail.com  | Designer       |
+| Wisdom Edet Okon             | wsdmlgn@gmail.com          | Developer      |
+| Kwari David Danladi          | kwarydav@gmail.com         | Developer      |
+| Babatunde Adeoti             | babaolu98@gmail.com        | Developer      |
 
 ---
 
