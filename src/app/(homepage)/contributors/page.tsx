@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import { ogImageUrl, siteUrl } from "~/lib/env-urls";
-import { ArrowBtn } from "../_components/ui/Button";
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 import { contributors } from "./index";
 
 export const metadata: Metadata = {
@@ -90,7 +91,16 @@ const ContributorsPage = () => {
           Zedu is built by people like you. Join the platform and be part of
           what we build next.
         </p>
-        <ArrowBtn text="Get Started" href="/auth/login" />
+        <Link
+          href="/auth/login"
+          className="group flex items-center gap-3 rounded-full bg-primary-500 px-4 py-2.5 font-medium text-white transition-colors duration-200 hover:bg-primary-400 sm:px-6 sm:py-3"
+        >
+          Get Started
+          <ArrowRight
+            aria-hidden="true"
+            className="h-5 w-5 transition-transform duration-300 ease-out group-hover:translate-x-1"
+          />
+        </Link>
       </section>
     </div>
   );
