@@ -31,7 +31,7 @@ const AccordionContent: React.FC<AccordionContentProps> = ({
         {activeButtonData.label}
       </div>
       <div className="flex flex-col w-full border-t p-[20px]">
-        <p>content</p>
+        <p>Complain</p>
       </div>
     </div>
   );
