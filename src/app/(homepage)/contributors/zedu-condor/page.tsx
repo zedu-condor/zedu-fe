@@ -7,7 +7,7 @@ import { contributors } from "./_lib/contributors";
 export const metadata: Metadata = {
   title: "Contributors",
   description:
-    "Meet the developers, designers, and QA engineers behind Zedu, built by the Zedu-Condor team.",
+    "Meet the developers, designers, product managers and QA engineers behind Zedu, built by the Zedu-Condor team.",
   openGraph: {
     title: "Contributors - The People Behind Zedu",
     description:
