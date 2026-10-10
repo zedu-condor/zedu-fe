@@ -29,7 +29,7 @@ export const contributors: Contributor[] = [
   },
   {
     name: "Mukeli Kavivya",
-    handle: "MK",
+    handle: "M.K",
     role: "Developer",
   },
 ];
